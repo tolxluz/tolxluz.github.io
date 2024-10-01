@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tolxluz.github.io/sitemap.html.gz
+Sitemap: https://tolxluz.github.io/app/sitemap.html.gz
+Sitemap: https://tolxluz.github.io/assets/sitemap.html.gz
+Sitemap: https://tolxluz.github.io/css/sitemap.html.gz
+Sitemap: https://tolxluz.github.io/data/sitemap.html.gz
+Sitemap: https://tolxluz.github.io/includes/sitemap.html.gz
+Sitemap: https://tolxluz.github.io/item/sitemap.html.gz
+Sitemap: https://tolxluz.github.io/src/sitemap.html.gz
